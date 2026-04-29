@@ -1,0 +1,13 @@
+{
+  "name": "Simple Kettu Plugin",
+  "description": "A simple test plugin for KettuTweaks.",
+  "authors": [
+    {
+      "name": "skid"
+    }
+  ],
+  "main": "index.js",
+  "vendetta": {
+    "icon": "ic_info_24px"
+  }
+}
